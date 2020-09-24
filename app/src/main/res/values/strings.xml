@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My notess 1</string>
+    <string name="you_like_coffee">You like coffee.</string>
+    <string name="you_drink_coffee">You drink coffee.</string>
+    <string name="you_eat_coffee">You eat coffee.</string>
+    <string name="ki_m_tra">KIỂM TRA</string>
+    <string name="b_n_u_ng_c_ph">Bạn uống cà phê</string>
+    <string name="ch_n_b_n_d_ch_ng">Chọn bản dịch đúng</string>
+</resources>
